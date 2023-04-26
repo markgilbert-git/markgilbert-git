@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markgilbert-git
-- 👀 I’m interested in all sorts of general nerd things
-- 🌱 I’m currently learning a hell of a lot of AWS and related technologies
+- 👀 I’m interested in DevOps and all sorts of general nerd things
+- 🌱 I’m currently learning a hell of a lot of DevOps, AWS and related technologies
 - 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me ...
 
